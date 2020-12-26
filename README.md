@@ -2,9 +2,9 @@
 
 You can use this repository by using
 
-`git clone https://github.com/ahmedosama-st/php-tips-course.git`
+### `git clone https://github.com/ahmedosama-st/php-tips-course.git`
 
-## and specifiy your folder name, then `cd` into that folder you've created and run `git checkout lesson-4-collection`
+and specifiy your folder name, then `cd` into that folder you've created and run `git checkout lesson-4-collection`
 
 ---
 
