@@ -1,12 +1,14 @@
 # This repository is mainly for any source code in my [PHP tips course](https://www.youtube.com/playlist?list=PL7mt2FDjAkPfX30QSw_e8vMctjJQ_PFxa)
 
-## You can use this repository by using `git clone https://github.com/ahmedosama-st/php-tips-course.git`and specifiy your folder name, then `cd` into that folder you've created and run `git checkout lesson-4-collection`
+You can use this repository by using
 
-### Please consider supporting us by sharing our work ^^
+`git clone https://github.com/ahmedosama-st/php-tips-course.git`
+
+## and specifiy your folder name, then `cd` into that folder you've created and run `git checkout lesson-4-collection`
 
 ---
 
-### Don't forget to follow us ^^
+### Please consider supporting us by sharing our work ^^
 
 > [Facebook page](https://bit.ly/39dTot4)
 
